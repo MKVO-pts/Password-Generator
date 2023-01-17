@@ -11,4 +11,5 @@ This project is simple a Password Generator made using kivy.
 To run this project, install kivy:
 ```
 $ pip install kivy
+$ pip install numpy
 ```
